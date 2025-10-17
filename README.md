@@ -18,7 +18,7 @@
   <a href="mailto:codebyharini@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://linkedin.com/in/harini-m" target="_blank">
+  <a href="https://linkedin.com/in/harini-m-685b42309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://github.com/codebyharini26" target="_blank">
