@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
-<h3 align="center">A passionate Software Developer🚀</h3>
+<h3 align="center">A passionate Software Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=candy&label=Profile%20views&color=0e75b6&style=flat" alt="candy" />
@@ -18,10 +18,10 @@
   <a href="mailto:codebyharini@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://linkedin.com/in/harinicandy" target="_blank">
+  <a href="https://linkedin.com/in/harini-m" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://github.com/candy" target="_blank">
+  <a href="https://github.com/codebyharini26" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="center">Candy's GitHub Stats</h3>
+<h3 align="center">🍬 Candy's GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=candy&show_icons=true&locale=en&layout=compact&theme=radical" alt="candy" /></p>
 
