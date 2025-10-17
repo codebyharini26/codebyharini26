@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="center">🍬 Harini Candy's GitHub Stats</h3>
+<h3 align="center">Harini's GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyharini&show_icons=true&locale=en&layout=compact&theme=radical" alt="codebyharini" /></p>
 
