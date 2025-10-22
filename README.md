@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I am a results-oriented and aspiring Software Engineer with a strong foundation in *core Java, JavaScript, and full-stack web development*. My passion lies in architecting efficient, scalable solutions to complex problems and crafting intuitive user experiences.
+I am a results-oriented and aspiring Software developer with a strong foundation in *core Java, JavaScript*. My passion lies in architecting efficient, scalable solutions to complex problems and crafting intuitive user experiences.
 
 Currently, I am seeking a *Software Development Engineer (SDE) internship* where I can apply my technical skills to contribute to meaningful projects, collaborate with experienced professionals, and further develop my expertise in a challenging and dynamic environment. I am eager to leverage my abilities to add value to a forward-thinking organization.
 
